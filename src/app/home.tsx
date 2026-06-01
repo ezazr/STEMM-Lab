@@ -14,6 +14,7 @@ export default function Home() {
     { title: "Results", route: "/results" },
     { title: "Battery Status", route: "/battery" },
     { title: "GPS Location", route: "/location" },
+    { title: "Notifications", route: "/notifications" },
     { title: "Settings", route: "/settings" },
   ];
 
