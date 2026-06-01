@@ -12,6 +12,7 @@ export default function Home() {
     { title: "Breathing Trainer", route: "/breathing-trainer" },
     { title: "Leaderboard", route: "/leaderboard" },
     { title: "Results", route: "/results" },
+    { title: "Battery Status", route: "/battery" },
     { title: "Settings", route: "/settings" },
   ];
 
