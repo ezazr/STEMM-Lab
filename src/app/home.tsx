@@ -13,6 +13,7 @@ export default function Home() {
     { title: "Leaderboard", route: "/leaderboard" },
     { title: "Results", route: "/results" },
     { title: "Battery Status", route: "/battery" },
+    { title: "GPS Location", route: "/location" },
     { title: "Settings", route: "/settings" },
   ];
 
