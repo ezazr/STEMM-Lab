@@ -19,6 +19,7 @@ export default function Home() {
     { title: "Map View", route: "/map-view" },
     { title: "Offline Storage", route: "/offline-storage" },
     { title: "Task Manager", route: "/task-manager" },
+    { title: "Parallel Programming", route: "/parallel-programming" },
     { title: "Settings", route: "/settings" },
   ];
 
