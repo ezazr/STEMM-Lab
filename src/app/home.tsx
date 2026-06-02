@@ -16,6 +16,8 @@ export default function Home() {
     { title: "GPS Location", route: "/location" },
     { title: "Notifications", route: "/notifications" },
     { title: "Camera Feature", route: "/camera" },
+    { title: "Map View", route: "/map-view" },
+    
     { title: "Settings", route: "/settings" },
   ];
 
