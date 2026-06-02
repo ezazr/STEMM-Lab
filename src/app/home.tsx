@@ -17,7 +17,8 @@ export default function Home() {
     { title: "Notifications", route: "/notifications" },
     { title: "Camera Feature", route: "/camera" },
     { title: "Map View", route: "/map-view" },
-    
+    { title: "Offline Storage", route: "/offline-storage" },
+    { title: "Task Manager", route: "/task-manager" },
     { title: "Settings", route: "/settings" },
   ];
 
