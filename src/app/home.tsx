@@ -15,6 +15,7 @@ export default function Home() {
     { title: "Battery Status", route: "/battery" },
     { title: "GPS Location", route: "/location" },
     { title: "Notifications", route: "/notifications" },
+    { title: "Camera Feature", route: "/camera" },
     { title: "Settings", route: "/settings" },
   ];
 
